@@ -3,6 +3,9 @@
 
 ## AIM: 
 To create the solid model from given drawing and section the solid model
+## NAME:PAVITHRA E
+## REF NO:24010962
+## DATE:4/12/2024
 
 ## REQUIREMENTS: 
 1. Autodesk fusion 360
@@ -42,6 +45,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+![EDM4 2 DRAWING pdf pdf](https://github.com/user-attachments/assets/81cb1b0f-9b01-487c-b626-f3d22294191c)
 
 ## RESULT:
 Thus, the cut section for solid model is created.
